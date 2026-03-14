@@ -1,0 +1,6 @@
+# Ignore compiled Windows binaries
+*.exe
+
+# Ignore compiled Linux/macOS binaries (just in case)
+*.out
+*.o
